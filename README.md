@@ -32,3 +32,8 @@ Author
 ------
 
 EMQ X Team.
+
+
+
+适用示例：https://www.jianshu.com/p/177fb99a9fbf
+
