@@ -81,3 +81,6 @@ CT_APPS := emqx_auth_jwt emqx_auth_mysql emqx_auth_username \
    // 以下为添加代码
                 emqx_plugin_customize
 
+
+
+测试成功连接
